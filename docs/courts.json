@@ -861,24 +861,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.3280569,-111.93743769999999"
   },
   {
-    "place_id": "ChIJ82uFjhFuK4cRWdDLsqF5350",
-    "name": "North Phoenix Resort Pickleball Court Pool Hot Tub",
-    "address": "Phoenix, AZ 85022, USA",
-    "lat": 33.6282311,
-    "lng": -112.0650024,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": "https://bookings.iamhoste.com/property/64909d4288160e002aa6169a",
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.6282311,-112.0650024"
-  },
-  {
     "place_id": "ChIJXWHjfQB5K4cR4-nhjnK21O8",
     "name": "Ashler Hills Park Pickleball",
     "address": "32220 N 74th Way, Scottsdale, AZ 85266, USA",
@@ -1012,60 +994,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.503504299999996,-111.89882689999999"
   },
   {
-    "place_id": "ChIJTSnuuYx0K4cR3RAWizkl1bc",
-    "name": "BRAND NEW Pickleball Court - 7BR Scottsdale Estate w/ Pool, Guest House",
-    "address": "Scottsdale, AZ 85254, USA",
-    "lat": 33.5922318,
-    "lng": -111.92920679999999,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.5922318,-111.92920679999999"
-  },
-  {
-    "place_id": "ChIJ3XF-F_N0K4cRypFP_ltwuFM",
-    "name": "Scottsdale Acre Oasis: Resort-Style Backyard w/ Private Pickleball Court & More",
-    "address": "Scottsdale, AZ 85254, USA",
-    "lat": 33.5917473,
-    "lng": -111.92670439999999,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.5917473,-111.92670439999999"
-  },
-  {
-    "place_id": "ChIJgbvoHQB1K4cRyKI-0dABRNc",
-    "name": "Scottsdale Golf Paradise -1 Acre of Fun 9-Hole Golf Course, Pickleball Court, Pool, Cornhole",
-    "address": "Scottsdale, AZ 85260, USA",
-    "lat": 33.6022301,
-    "lng": -111.9044799,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.6022301,-111.9044799"
-  },
-  {
     "place_id": "ChIJO9DguFgLK4cRJeNcLIyaik0",
     "name": "Courtyard Pickleball",
     "address": "4343 N Scottsdale Rd, Scottsdale, AZ 85251, USA",
@@ -1083,24 +1011,6 @@
     "website": "https://www.courtyardpickle.com/",
     "hours": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.4997902,-111.923019"
-  },
-  {
-    "place_id": "ChIJz0rAl-IKK4cR0X34HijZHVc",
-    "name": "Pickleball Palace- pickleball court, spa pool",
-    "address": "Scottsdale, AZ 85250, USA",
-    "lat": 33.5301513,
-    "lng": -111.9037094,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.5301513,-111.9037094"
   },
   {
     "place_id": "ChIJPdPu8MelK4cRUEw01MTBxl0",
@@ -1984,35 +1894,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=32.784770099999996,-117.08624069999999"
   },
   {
-    "place_id": "ChIJY3xByw4M3IAR-hHxVUA5c6s",
-    "name": "Bobby Riggs Racket & Paddle - get2eleven Pickleball proShop",
-    "address": "875 Santa Fe Dr, Encinitas, CA 92024, USA",
-    "lat": 33.035793399999996,
-    "lng": -117.27339930000001,
-    "types": [
-      "sports_complex",
-      "restaurant",
-      "sports_activity_location",
-      "food",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": 4.7,
-    "user_rating_count": 116,
-    "phone": "+1 760-473-2672",
-    "website": "http://www.bobbyriggs.net/",
-    "hours": {
-      "monday": "8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "tuesday": "8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "wednesday": "8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "thursday": "8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "friday": "8:00\u202fAM\u2009\u2013\u20099:00\u202fPM",
-      "saturday": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM",
-      "sunday": "8:00\u202fAM\u2009\u2013\u20097:00\u202fPM"
-    },
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.035793399999996,-117.27339930000001"
-  },
-  {
     "place_id": "ChIJXd1wqyNz3IARPL9ljZSwIak",
     "name": "Poinsettia Park Tennis and Pickleball Courts",
     "address": "6600 Hidden Valley Rd, Carlsbad, CA 92011, USA",
@@ -2269,34 +2150,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.7239442,-116.36261529999999"
   },
   {
-    "place_id": "ChIJ5WsocIj92oARd_q68SuQ4Qg",
-    "name": "\u201cThe Way of Pickleball\u201d - Professional Pickleball Lessons with James Ku",
-    "address": "72577 Edgehill Dr UNIT 3, Palm Desert, CA 92260, USA",
-    "lat": 33.707994899999996,
-    "lng": -116.3972593,
-    "types": [
-      "athletic_field",
-      "health",
-      "sports_activity_location",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": 5,
-    "user_rating_count": 48,
-    "phone": "+1 310-927-5473",
-    "website": "https://thewayofpickleball.wixsite.com/thewayofpickleball-p",
-    "hours": {
-      "monday": "7:00\u2009\u2013\u20098:00\u202fAM, 11:00\u202fAM\u2009\u2013\u20092:00\u202fPM",
-      "tuesday": "Closed",
-      "wednesday": "7:00\u2009\u2013\u20098:00\u202fAM, 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "thursday": "7:00\u2009\u2013\u20098:00\u202fAM, 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "friday": "7:00\u2009\u2013\u20098:00\u202fAM, 11:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "saturday": "11:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "sunday": "Closed"
-    },
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.707994899999996,-116.3972593"
-  },
-  {
     "place_id": "ChIJB56HxPb92oARNMPMdC_gAKg",
     "name": "Indian Ridge Pickleball Courts",
     "address": "Clubhouse Way, Palm Desert, CA 92211, USA",
@@ -2349,33 +2202,6 @@
       "sunday": "6:00\u202fAM\u2009\u2013\u20099:00\u202fPM"
     },
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.746288899999996,-116.41276020000001"
-  },
-  {
-    "place_id": "ChIJs5sLEyn_2oARZ1NzBTBPDbc",
-    "name": "40 by 30 Champions Pickleball and Coachella Pickleballers",
-    "address": "74399 CA-111 Ste D, Palm Desert, CA 92260, USA",
-    "lat": 33.720899599999996,
-    "lng": -116.36659709999999,
-    "types": [
-      "sports_club",
-      "point_of_interest",
-      "association_or_organization",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": "+1 949-829-2260",
-    "website": "https://bit.ly/m/40by30championspb",
-    "hours": {
-      "monday": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "tuesday": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "wednesday": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "thursday": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "friday": "9:00\u202fAM\u2009\u2013\u20095:00\u202fPM",
-      "saturday": "Closed",
-      "sunday": "Closed"
-    },
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.720899599999996,-116.36659709999999"
   },
   {
     "place_id": "ChIJ9c-mc_H72oARohZPxfc2-IQ",
@@ -5659,35 +5485,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.2266948,-81.62202479999999"
   },
   {
-    "place_id": "ChIJ99haqD_j2ogRGe1Jq2Ycc6g",
-    "name": "The Pickleball Haven of Naples - the ultimate pickleball luxury vacation getaway",
-    "address": "2479 Shadowlawn Dr, Naples, FL 34112, USA",
-    "lat": 26.130632,
-    "lng": -81.770302,
-    "types": [
-      "real_estate_agency",
-      "travel_agency",
-      "point_of_interest",
-      "service",
-      "establishment"
-    ],
-    "rating": 5,
-    "user_rating_count": 29,
-    "phone": "+1 239-351-7706",
-    "website": "http://www.thepickleballhavenofnaples.com/",
-    "hours": {
-      "monday": "Open 24 hours",
-      "tuesday": "Open 24 hours",
-      "wednesday": "Open 24 hours",
-      "thursday": "Open 24 hours",
-      "friday": "Open 24 hours",
-      "saturday": "Open 24 hours",
-      "sunday": "Open 24 hours"
-    },
-    "photo": "photos/ChIJ99haqD_j2ogRGe1Jq2Ycc6g.jpg",
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.130632,-81.770302"
-  },
-  {
     "place_id": "ChIJT83q6r7j2ogRpNIwVwN3DDg",
     "name": "USOP National Pickleball Center",
     "address": "3520 Thomasson Ln unit 202, Naples, FL 34112, USA",
@@ -5790,33 +5587,6 @@
     "hours": null,
     "photo": "photos/ChIJI_8VCgAZ24gRH9WvvioujnM.jpg",
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.313409699999998,-81.80324"
-  },
-  {
-    "place_id": "ChIJ73uWmmzh2ogRGOX5B8ELyyI",
-    "name": "Pickleball Lessons with Coach Jerry Naples Florida",
-    "address": "3500 Thomasson Dr, Naples, FL 34112, USA",
-    "lat": 26.1062091,
-    "lng": -81.7643271,
-    "types": [
-      "sports_school",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": 5,
-    "user_rating_count": 6,
-    "phone": "+1 941-882-0275",
-    "website": "http://pickleballjerry.com/",
-    "hours": {
-      "monday": "7:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
-      "tuesday": "7:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
-      "wednesday": "7:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
-      "thursday": "7:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
-      "friday": "7:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
-      "saturday": "7:00\u202fAM\u2009\u2013\u200912:00\u202fPM",
-      "sunday": "7:00\u202fAM\u2009\u2013\u200912:00\u202fPM"
-    },
-    "photo": "photos/ChIJ73uWmmzh2ogRGOX5B8ELyyI.jpg",
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.1062091,-81.7643271"
   },
   {
     "place_id": "ChIJlynpcwDj2ogRibkZ_PKSYEs",
@@ -5934,42 +5704,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.067443599999997,-81.6987515"
   },
   {
-    "place_id": "ChIJ767-B5Lh2ogR3NbXIMk7yGQ",
-    "name": "Naples Paradise Pool/1Mile to beach/DT/Shopping/0,5mile Pickleball court",
-    "address": "Naples, FL 34102, USA",
-    "lat": 26.1562977,
-    "lng": -81.7896576,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.1562977,-81.7896576"
-  },
-  {
-    "place_id": "ChIJjSH5B5Lh2ogR4g-F5zEFWyc",
-    "name": "Naples Paradise Pool /1Mile to beach /DT /Shopping /0,5mile Pickleball court",
-    "address": "Naples, FL 34102, USA",
-    "lat": 26.15629,
-    "lng": -81.78965,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": "https://www.bluepillow.com/search/67a4c0cd064d51dcdc92aafa?dest=bpex&cat=Apartment&lat=26.15629&lng=-81.78965&language=en",
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.15629,-81.78965"
-  },
-  {
     "place_id": "ChIJq0XpHAAf24gRLMEOFPr0cKk",
     "name": "Pickleball Courts (Veterans Park)",
     "address": "1890 SW Health Pkwy, Naples, FL 34109, USA",
@@ -5997,42 +5731,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.2683887,-81.78413730000001"
   },
   {
-    "place_id": "ChIJH3PHjvrj2ogRFC5_bRTu7j4",
-    "name": "Naples Getaway by Beaches & Pickleball Courts & Botanical Gardens",
-    "address": "East Naples, FL 34112, USA",
-    "lat": 26.0990868,
-    "lng": -81.7686996,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.0990868,-81.7686996"
-  },
-  {
-    "place_id": "ChIJHxPIjvrj2ogR-g1W_Eu0RV8",
-    "name": "Naples Getaway by Beaches Pickleball Courts - Three-Bedroom Villa",
-    "address": "East Naples, FL 34112, USA",
-    "lat": 26.0990696,
-    "lng": -81.7686996,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.0990696,-81.7686996"
-  },
-  {
     "place_id": "ChIJt3EBVL0f24gRDLCFE7Inytw",
     "name": "Pelican Bay Pickleball",
     "address": "764 Vanderbilt Beach Rd, Naples, FL 34108, USA",
@@ -6050,36 +5748,6 @@
     "hours": null,
     "photo": "photos/ChIJt3EBVL0f24gRDLCFE7Inytw.jpg",
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.250566799999998,-81.8085799"
-  },
-  {
-    "place_id": "ChIJEdt22-7j2ogRksiMnBVAxG8",
-    "name": "NPC Pickleball Pro Shop",
-    "address": "3500 Thomasson Dr, Naples, FL 34112, USA",
-    "lat": 26.1059631,
-    "lng": -81.76344940000001,
-    "types": [
-      "sportswear_store",
-      "clothing_store",
-      "sporting_goods_store",
-      "store",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": 4.6,
-    "user_rating_count": 11,
-    "phone": "+1 239-778-8194",
-    "website": null,
-    "hours": {
-      "monday": "7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "tuesday": "7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "wednesday": "7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "thursday": "7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "friday": "7:30\u202fAM\u2009\u2013\u20098:00\u202fPM",
-      "saturday": "7:30\u202fAM\u2009\u2013\u20093:30\u202fPM",
-      "sunday": "7:30\u202fAM\u2009\u2013\u20093:30\u202fPM"
-    },
-    "photo": "photos/ChIJEdt22-7j2ogRksiMnBVAxG8.jpg",
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.1059631,-81.76344940000001"
   },
   {
     "place_id": "ChIJRdTs7zcZ24gRcvcv5Bhe_fQ",
@@ -6205,24 +5873,6 @@
     "website": null,
     "hours": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.0593683,-81.65917549999999"
-  },
-  {
-    "place_id": "ChIJe_poB2ge24gRdpartRucVPQ",
-    "name": "Coastal Vibes, Pickleball Court, One Mile to the Beach - Two-Bedroom House",
-    "address": "Pine Ridge, FL 34108, USA",
-    "lat": 26.220640099999997,
-    "lng": -81.8001328,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.220640099999997,-81.8001328"
   },
   {
     "place_id": "ChIJ_xEWDgDj2ogR_pBjCMVy9lI",
@@ -6838,24 +6488,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=27.8226652,-82.6115229"
   },
   {
-    "place_id": "ChIJW1Io9HbEwogRbaRVXH6i7tg",
-    "name": "Pets + Pickleball: Private backyard Pickleball court -Near to Armature Works",
-    "address": "Tampa, FL 33602, USA",
-    "lat": 27.9688931,
-    "lng": -82.47236629999999,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": "https://www.us.despegar.com/hotels/h-5567426",
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=27.9688931,-82.47236629999999"
-  },
-  {
     "place_id": "ChIJpdbgIwy3wogRlKmBt12fUmQ",
     "name": "Compton Park Pickleball Court",
     "address": "16101 Compton Palms Dr, Tampa, FL 33647, USA",
@@ -7083,31 +6715,6 @@
     "hours": null,
     "photo": "photos/ChIJRXjWXUBv54gRU5T127b9KDw.jpg",
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=28.595973599999997,-81.31687699999999"
-  },
-  {
-    "place_id": "ChIJ50gKPql53YgRVg30CtfmMv8",
-    "name": "Reunion Resort Tennis & Pickleball Center",
-    "address": "1351 Centre Ct Ridge Dr, Kissimmee, FL 34747, USA",
-    "lat": 28.2687836,
-    "lng": -81.5916517,
-    "types": [
-      "resort_hotel",
-      "hotel",
-      "athletic_field",
-      "sports_activity_location",
-      "lodging",
-      "point_of_interest",
-      "sports_club",
-      "association_or_organization",
-      "establishment"
-    ],
-    "rating": 4.4,
-    "user_rating_count": 86,
-    "phone": "+1 407-662-1630",
-    "website": "https://www.reunionvacationhomes.com/orlando/reunion-resort/tennis/",
-    "hours": null,
-    "photo": "photos/ChIJ50gKPql53YgRVg30CtfmMv8.jpg",
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=28.2687836,-81.5916517"
   },
   {
     "place_id": "ChIJcy4Amlnr54gRKqJBJoMOSDU",
@@ -7584,23 +7191,6 @@
     "website": null,
     "hours": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=25.7589437,-80.14112899999999"
-  },
-  {
-    "place_id": "ChIJIxF605yz2YgRiByekK5AMko",
-    "name": "Pickleball Management Group",
-    "address": "825 NE 100th St, Miami Shores, FL 33138, USA",
-    "lat": 25.867134099999998,
-    "lng": -80.1805423,
-    "types": [
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=25.867134099999998,-80.1805423"
   },
   {
     "place_id": "ChIJrbKH3MEB2YgR_6dGnL3Lec4",
@@ -9320,25 +8910,6 @@
     "website": null,
     "hours": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=34.33773070000001,-84.3731067"
-  },
-  {
-    "place_id": "ChIJZVLb8IyL9IgR_4p_wzD1LoY",
-    "name": "Spalding County Pickleball Association",
-    "address": "Tyus Park Pickleball Complex, 1301 Cowan Rd, Griffin, GA 30223, USA",
-    "lat": 33.281008299999996,
-    "lng": -84.31058209999999,
-    "types": [
-      "non_profit_organization",
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.281008299999996,-84.31058209999999"
   },
   {
     "place_id": "ChIJz_wc6_wlX4gRvRSOvYyuWk4",
@@ -11426,25 +10997,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=38.9980289,-94.6264875"
   },
   {
-    "place_id": "ChIJgaPY5jEdwYcRoyqNINuyIps",
-    "name": "Apex Pickleball Coaching",
-    "address": "19310 E 50th Terrace, Independence, MO 64055, USA",
-    "lat": 39.0281549,
-    "lng": -94.357637,
-    "types": [
-      "athletic_field",
-      "sports_activity_location",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.0281549,-94.357637"
-  },
-  {
     "place_id": "ChIJKZ69_wT4wIcRmTULpNss-Vk",
     "name": "72nd Street Pickleball Court",
     "address": "2099 NE 72nd St, Gladstone, MO 64118, USA",
@@ -11864,42 +11416,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.4991177,-79.7246373"
   },
   {
-    "place_id": "ChIJi2uTBQB9NIgRPsGuTHog81U",
-    "name": "Cranberry Township Pickleball Association",
-    "address": "PV3F+G3, Cranberry Township, PA 16066, USA",
-    "lat": 40.7037753,
-    "lng": -80.12725259999999,
-    "types": [
-      "sports_club",
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.7037753,-80.12725259999999"
-  },
-  {
-    "place_id": "ChIJ____z_D5NIgRS2LkityWFrk",
-    "name": "Pickleball Lessons By Laurel",
-    "address": "1530 Hamilton Rd, Pittsburgh, PA 15234, USA",
-    "lat": 40.3528757,
-    "lng": -80.0150644,
-    "types": [
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.3528757,-80.0150644"
-  },
-  {
     "place_id": "ChIJb3amu6HuNIgRWbThwxko4Y4",
     "name": "Pickleball Courts",
     "address": "494 Atlantic Ave, Pittsburgh, PA 15221, USA",
@@ -12075,44 +11591,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.6191625,-111.7098594"
-  },
-  {
-    "place_id": "ChIJ-f8bOfV1K4cRt2zND-BGfeI",
-    "name": "Privacy, Pickleball, Club House, Hiking, Mountains",
-    "address": "Scottsdale, AZ 85255, USA",
-    "lat": 33.6338806,
-    "lng": -111.8585587,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.6338806,-111.8585587"
-  },
-  {
-    "place_id": "ChIJEyQcOfV1K4cR9IpnbZbRpC8",
-    "name": "Privacy, Pickleball, Club House, Hiking, Mountains",
-    "address": "Scottsdale, AZ 85255, USA",
-    "lat": 33.6338806,
-    "lng": -111.85855110000001,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.6338806,-111.85855110000001"
   },
   {
     "place_id": "ChIJoRzjittwK4cR2SDJEaA30Mk",
@@ -12455,25 +11933,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=34.0842397,-118.3778782"
   },
   {
-    "place_id": "ChIJMSyXbNy_woAR5LY2OjplP9o",
-    "name": "California Pickleball Association",
-    "address": "1930 Bella Vista Ave, Arcadia, CA 91007, USA",
-    "lat": 34.116644799999996,
-    "lng": -118.0482684,
-    "types": [
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=34.116644799999996,-118.0482684"
-  },
-  {
     "place_id": "ChIJM8RbIACxwoAR7ZFc5YLMnQE",
     "name": "Westchester - Pickleball Courts",
     "address": "Westchester, Los Angeles, CA 90045, USA",
@@ -12592,26 +12051,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.1291041,-117.26010249999999"
   },
   {
-    "place_id": "ChIJFR2US3cN3IARrJr77zpscmw",
-    "name": "get2Eleven Pickleball Shop San Diego",
-    "address": "875 Santa Fe Dr, Encinitas, CA 92024, USA",
-    "lat": 33.0356966,
-    "lng": -117.2736164,
-    "types": [
-      "sports_complex",
-      "sports_activity_location",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.0356966,-117.2736164"
-  },
-  {
     "place_id": "ChIJq6p6o7aJ24ARqacDNwiF6eM",
     "name": "Castle Creek Pickleball Club",
     "address": "8797 Circle R Dr, Escondido, CA 92026, USA",
@@ -12629,110 +12068,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.254790799999995,-117.1452812"
-  },
-  {
-    "place_id": "ChIJFT_UOtv724ARuEip1fETNJ0",
-    "name": "Pickleball Training Centers",
-    "address": "14343 Silverset St, Poway, CA 92064, USA",
-    "lat": 32.9774659,
-    "lng": -117.05083979999999,
-    "types": [
-      "sports_club",
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=32.9774659,-117.05083979999999"
-  },
-  {
-    "place_id": "ChIJjRLQW71w3IAROLBFjcjf50Q",
-    "name": "Melba Bishop Pickleball Courts",
-    "address": "5306 N River Rd, Oceanside, CA 92057, USA",
-    "lat": 33.256509699999995,
-    "lng": -117.2921102,
-    "types": [
-      "athletic_field",
-      "sports_activity_location",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.256509699999995,-117.2921102"
-  },
-  {
-    "place_id": "ChIJrUTjsWwJ3IARAT91zItvNkY",
-    "name": "TeachMe.To Pickleball Lessons - Del Mar",
-    "address": "2707 Via De La Valle, Del Mar, CA 92014, USA",
-    "lat": 32.9788941,
-    "lng": -117.2489571,
-    "types": [
-      "sports_coaching",
-      "health",
-      "school",
-      "educational_institution",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=32.9788941,-117.2489571"
-  },
-  {
-    "place_id": "ChIJvXjzlZAH3IAR0BoXpKQRmZM",
-    "name": "Luxury Pickleball",
-    "address": "4225 Executive Square Suite 600, La Jolla, CA 92037, USA",
-    "lat": 32.8738206,
-    "lng": -117.21566169999998,
-    "types": [
-      "sportswear_store",
-      "clothing_store",
-      "sporting_goods_store",
-      "travel_agency",
-      "store",
-      "point_of_interest",
-      "service",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=32.8738206,-117.21566169999998"
-  },
-  {
-    "place_id": "ChIJYfDVwEkB3IAR52FGmQpIuHs",
-    "name": "Intelli-Pickleball Coach",
-    "address": "Toscana Dr, San Diego, CA 92122, USA",
-    "lat": 32.8679781,
-    "lng": -117.20105139999998,
-    "types": [
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=32.8679781,-117.20105139999998"
   },
   {
     "place_id": "ChIJK4y_0iPz24ARpP7fjH8eukk",
@@ -12755,24 +12090,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.1013845,-117.07557240000001"
   },
   {
-    "place_id": "ChIJZ0C8YVeq3oARb_nipOUzDiM",
-    "name": "Pickleball Association of San Diego",
-    "address": "2930 Barnard St, San Diego, CA 92110, USA",
-    "lat": 32.7520088,
-    "lng": -117.22473439999999,
-    "types": [
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=32.7520088,-117.22473439999999"
-  },
-  {
     "place_id": "ChIJtUoX_VD52oARcef8XZ8aTrQ",
     "name": "La Quinta Resort & Club Pickleball Courts",
     "address": "49401 Avenida Obregon, La Quinta, CA 92253, USA",
@@ -12791,44 +12108,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.688727799999995,-116.313946"
-  },
-  {
-    "place_id": "ChIJ94okZnT82oARBdX1lfSeMAM",
-    "name": "Palm Valley Country Club, Pickleball, Tennis, Gym, Clubhouse, Swimming Pools, Lux, Spac 2 Bdrms Den 2 Ba",
-    "address": "Palm Desert, CA 92211, USA",
-    "lat": 33.764770500000004,
-    "lng": -116.32962040000001,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.764770500000004,-116.32962040000001"
-  },
-  {
-    "place_id": "ChIJE7JWivD72oARXiKYBEYdrnc",
-    "name": "Resort-Style Palm Desert Rental: Pickleball Courts",
-    "address": "Palm Desert, CA 92211, USA",
-    "lat": 33.7553329,
-    "lng": -116.316246,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.7553329,-116.316246"
   },
   {
     "place_id": "ChIJq3q32I3PRIYRBNsCqFvj6N0",
@@ -12935,46 +12214,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=30.234558299999996,-97.8781022"
   },
   {
-    "place_id": "ChIJf44a2O_PRIYRGc3HQFp_OeQ",
-    "name": "AI Sporting Events | Austin Pickleball League",
-    "address": "2401 W Pecan St Suite 100, Pflugerville, TX 78660, USA",
-    "lat": 30.4466094,
-    "lng": -97.652383,
-    "types": [
-      "sports_club",
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=30.4466094,-97.652383"
-  },
-  {
-    "place_id": "ChIJwwgHWnebRIYRvtS9G0ECkJg",
-    "name": "Bastrop Area Pickleball Association",
-    "address": "141 Tahitian Dr, Bastrop, TX 78602, USA",
-    "lat": 30.099340199999997,
-    "lng": -97.285384,
-    "types": [
-      "athletic_field",
-      "sports_activity_location",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=30.099340199999997,-97.285384"
-  },
-  {
     "place_id": "ChIJmYp4zaVJW4YR0yHY56WWjqU",
     "name": "The Picklr Austin Oak Hill",
     "address": "7101 State Hwy 71 Suite D1, Austin, TX 78735, USA",
@@ -13015,26 +12254,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=30.716985700000002,-97.7183749"
-  },
-  {
-    "place_id": "ChIJN4RNshhRW4YRdm1CakOBQDk",
-    "name": "Sage Hill Pickleball",
-    "address": "4444 Ranch to Market Rd 150, Kyle, TX 78640, USA",
-    "lat": 30.0369709,
-    "lng": -97.9419362,
-    "types": [
-      "hotel",
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=30.0369709,-97.9419362"
   },
   {
     "place_id": "ChIJbwQbz0G1RIYRExXAKAgxtHI",
@@ -13347,31 +12566,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.1028444,-96.8029918"
   },
   {
-    "place_id": "ChIJcwXjXwBtSYYRPMODBBpjo_Q",
-    "name": "88888 Pickleball",
-    "address": "3951 FM 1504, Wills Point, TX 75169, USA",
-    "lat": 32.709295499999996,
-    "lng": -96.0083018,
-    "types": [
-      "sports_club",
-      "resort_hotel",
-      "athletic_field",
-      "hotel",
-      "lodging",
-      "sports_activity_location",
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=32.709295499999996,-96.0083018"
-  },
-  {
     "place_id": "ChIJb1VD77oxTIYRQGZ67XJGxuk",
     "name": "The Tribute Pickleball Courts",
     "address": "2601 Bellevue, The Colony, TX 75056, USA",
@@ -13452,46 +12646,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.0289352,-96.79178739999999"
   },
   {
-    "place_id": "ChIJyQ7J5kaje2URB0wYZXJxpBg",
-    "name": "Supreme Court Pickleball Team Leagues",
-    "address": "4255 Cotton Gin Rd, Frisco, TX 75034, USA",
-    "lat": 33.145588599999996,
-    "lng": -96.8512647,
-    "types": [
-      "sports_club",
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.145588599999996,-96.8512647"
-  },
-  {
-    "place_id": "ChIJ2_aPCVfXTYYRZKXBSrr5SyE",
-    "name": "Pickleball Association of Keller",
-    "address": "400 Bear Creek Pkwy, Keller, TX 76248, USA",
-    "lat": 32.9260314,
-    "lng": -97.24806,
-    "types": [
-      "sports_club",
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=32.9260314,-97.24806"
-  },
-  {
     "place_id": "ChIJjRK08dUVTIYRKMq8aPbxZAs",
     "name": "The Courts McKinney Pickleball and Tennis Center",
     "address": "3253 Alma Rd, McKinney, TX 75070, USA",
@@ -13551,46 +12705,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=32.9007578,-96.76692109999999"
-  },
-  {
-    "place_id": "ChIJi6KdOaVvl2IRNeaFzxCWDss",
-    "name": "Texas Team Pickleball League - Triple Team National Championships Affiliate",
-    "address": "4255 Cotton Gin Rd, Frisco, TX 75034, USA",
-    "lat": 33.1456841,
-    "lng": -96.85061089999999,
-    "types": [
-      "sports_club",
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.1456841,-96.85061089999999"
-  },
-  {
-    "place_id": "ChIJSVQDImIhTIYRSh4JATneF2U",
-    "name": "Pickleball Central Pro Shop at Pickleball Kingdom Dallas North",
-    "address": "14060 Dallas Pkwy Suite D, Dallas, TX 75240, USA",
-    "lat": 32.9385525,
-    "lng": -96.8206177,
-    "types": [
-      "sporting_goods_store",
-      "store",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=32.9385525,-96.8206177"
   },
   {
     "place_id": "ChIJSQlsagAtTIYRjHbzO6VWdlI",
@@ -13923,25 +13037,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=38.844624599999996,-104.829252"
   },
   {
-    "place_id": "ChIJAQAk-6p_a4cRrmGkdpHC3Yw",
-    "name": "Denver Metro Pickleball Association",
-    "address": "7306 W Bowles Ave, Littleton, CO 80123, USA",
-    "lat": 39.6072279,
-    "lng": -105.07672509999999,
-    "types": [
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.6072279,-105.07672509999999"
-  },
-  {
     "place_id": "ChIJkRClagCBa4cRh9bE0Cb-XIg",
     "name": "Carmody Pickleball Courts",
     "address": "2220 S Kipling St, Lakewood, CO 80227, USA",
@@ -13960,25 +13055,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.67713690000001,-105.10852129999999"
-  },
-  {
-    "place_id": "ChIJfX5Y9NIVkFQRMBXOg5FxfWE",
-    "name": "Think Pickleball Coaching",
-    "address": "5719 Kensington Pl N, Seattle, WA 98103, USA",
-    "lat": 47.670682899999996,
-    "lng": -122.331739,
-    "types": [
-      "sports_school",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=47.670682899999996,-122.331739"
   },
   {
     "place_id": "ChIJL6MvuXEjkFQRTWbNj080V9g",
@@ -14901,25 +13977,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.0729904,-80.2653579"
   },
   {
-    "place_id": "ChIJL24VcLy52YgRef2TupqsfnA",
-    "name": "Pickle\u2019m - Pickleball Tournaments",
-    "address": "600 SW 92nd Ave, Miami, FL 33174, USA",
-    "lat": 25.763805599999998,
-    "lng": -80.34529409999999,
-    "types": [
-      "event_venue",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=25.763805599999998,-80.34529409999999"
-  },
-  {
     "place_id": "ChIJPTTbEwCz2YgR7zO7qWJw3JY",
     "name": "Pickleball Courts",
     "address": "4365 N Michigan Ave, Miami Beach, FL 33140, USA",
@@ -15405,49 +14462,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.9259615,-84.1371126"
-  },
-  {
-    "place_id": "ChIJgwRmizc3X4gRdQa-UBtbUBg",
-    "name": "Helen Indoor Pickleball & Pro Shop",
-    "address": "115 Escowee Dr Suite D, Helen, GA 30545, USA",
-    "lat": 34.7034401,
-    "lng": -83.7381061,
-    "types": [
-      "sports_complex",
-      "athletic_field",
-      "sports_activity_location",
-      "sports_club",
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=34.7034401,-83.7381061"
-  },
-  {
-    "place_id": "ChIJVzGjT1Jv8YgRwOcpcIzgLmA",
-    "name": "Bleckley Pickleball Association Complex",
-    "address": "259 Peter St NE, Cochran, GA 31014, USA",
-    "lat": 32.3911491,
-    "lng": -83.3434474,
-    "types": [
-      "athletic_field",
-      "sports_activity_location",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=32.3911491,-83.3434474"
   },
   {
     "place_id": "ChIJF9UzeAv584gRXb6gK6twJAs",
@@ -16670,26 +15684,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.125220399999996,-75.4138758"
   },
   {
-    "place_id": "ChIJoVmEvacXy4kRmqTAqyjfmNA",
-    "name": "Laurel Highlands Pickleball Association",
-    "address": "1750 Franklin St, Johnstown, PA 15905, USA",
-    "lat": 40.2898561,
-    "lng": -78.92712259999999,
-    "types": [
-      "sports_club",
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=40.2898561,-78.92712259999999"
-  },
-  {
     "place_id": "ChIJAy2WsMGzxIkRmYvwHpvh8zo",
     "name": "Dropshots Pickleball LLC",
     "address": "8 Riverside Dr, White Mills, PA 18473, USA",
@@ -17048,25 +16042,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=32.421565199999996,-110.93820509999999"
   },
   {
-    "place_id": "ChIJ__8bqN4E1oYRcyvjxurFERQ",
-    "name": "SaddleBrooke Ranch Pickleball Association",
-    "address": "60377 E Ankole Dr, Oracle, AZ 85623, USA",
-    "lat": 32.5832842,
-    "lng": -110.9215346,
-    "types": [
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=32.5832842,-110.9215346"
-  },
-  {
     "place_id": "ChIJM1fciiTh1YYRbmq7CoRwHTM",
     "name": "Continental Ranch Community Park - Pickleball Courts",
     "address": "9V9H+8R8, Marana, AZ 85743, USA",
@@ -17147,26 +16122,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.3658328,-111.791562"
   },
   {
-    "place_id": "ChIJzzpaCCypK4cRzpaR8g_qNgI",
-    "name": "Pickleball Central Pro Shop at Pickleball Backyard",
-    "address": "868 N Gilbert Rd #102, Gilbert, AZ 85234, USA",
-    "lat": 33.3658328,
-    "lng": -111.791562,
-    "types": [
-      "sporting_goods_store",
-      "store",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.3658328,-111.791562"
-  },
-  {
     "place_id": "ChIJebYJTGBVKocRRS1GtrP9Q4s",
     "name": "La Paloma Park-Pickleball Courts",
     "address": "6541 S Salt Cedar Pl, Chandler, AZ 85249, USA",
@@ -17204,25 +16159,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.3422032,-111.7085036"
-  },
-  {
-    "place_id": "ChIJJZ0Jv1-sK4cR1UNVEdvN-8U",
-    "name": "Farmhouse Style Ranch house with Pickleball court and pool in Gilbert!",
-    "address": "Arizona 85295, USA",
-    "lat": 33.2942391,
-    "lng": -111.7360077,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=33.2942391,-111.7360077"
   },
   {
     "place_id": "ChIJuaG7PQBTKocR2Z6Pfa4acIs",
@@ -18849,26 +17785,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=32.9428829,-97.1553089"
   },
   {
-    "place_id": "ChIJT-118d4NToYR55Ax36srMlg",
-    "name": "Fort Worth Pickleball Lessons",
-    "address": "1705 S Cherry Ln, White Settlement, TX 76108, USA",
-    "lat": 32.7412669,
-    "lng": -97.4497983,
-    "types": [
-      "health",
-      "service",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=32.7412669,-97.4497983"
-  },
-  {
     "place_id": "ChIJ-UG4UwALToYRqOP4wzfVAKs",
     "name": "Lakeside Town Hall Pickleball Courts",
     "address": "Lakeside, TX 76135, USA",
@@ -19154,26 +18070,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=37.2539132,-107.0129628"
   },
   {
-    "place_id": "ChIJL_8sQ3RRE4cRJuXkT3LnT_4",
-    "name": "NeuroPickleball (Pickleball Lessons & Clinics)",
-    "address": "1120 Elkton Dr Suite D, Colorado Springs, CO 80907, USA",
-    "lat": 38.897443599999995,
-    "lng": -104.8464564,
-    "types": [
-      "sports_complex",
-      "sports_activity_location",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=38.897443599999995,-104.8464564"
-  },
-  {
     "place_id": "ChIJgRls1UPva4cRA4yiusqYUpc",
     "name": "Boulder Pickleball",
     "address": "3550 Frontier Ave Unit C, Boulder, CO 80301, USA",
@@ -19355,26 +18251,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.485762099999995,-116.3847092"
-  },
-  {
-    "place_id": "ChIJecU1CzJVrlQRha3MqKjOJHU",
-    "name": "Selkirk Sport Pickleball Pro Shop",
-    "address": "3230 N Eagle Rd, Meridian, ID 83646, USA",
-    "lat": 43.634354699999996,
-    "lng": -116.35319789999998,
-    "types": [
-      "sporting_goods_store",
-      "store",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=43.634354699999996,-116.35319789999998"
   },
   {
     "place_id": "ChIJUTfNNgCzr1QRxYBT-LyPByA",
@@ -20028,25 +18904,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=36.0020466,-86.7879538"
   },
   {
-    "place_id": "ChIJFXSeY3xgZIgRs_KbuUvw6g4",
-    "name": "Pickleball-Glam Room-Karaoke Club-Hot Tub-3+ Acres",
-    "address": "Nashville, TN 37218, USA",
-    "lat": 36.2143478,
-    "lng": -86.8664093,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=36.2143478,-86.8664093"
-  },
-  {
     "place_id": "ChIJj7GdegCBZIgRX4XSKpli40k",
     "name": "Pickleball Courts",
     "address": "401 Cheltenham Ave, Franklin, TN 37064, USA",
@@ -20329,25 +19186,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=35.1018688,-89.8449335"
   },
   {
-    "place_id": "ChIJIwkcOhp-1YcRBOE14DPkkNk",
-    "name": "Pickleball Court Ev Power Cord Hot Tub Pool Table",
-    "address": "Memphis, TN 38104, USA",
-    "lat": 35.1423683,
-    "lng": -90.0076294,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=35.1423683,-90.0076294"
-  },
-  {
     "place_id": "ChIJF4zGSgCHf4gRtG1AL6GrUZk",
     "name": "Pickleball Courts",
     "address": "3098 Southern Ave, Memphis, TN 38111, USA",
@@ -20445,25 +19283,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=34.9554796,-89.921758"
-  },
-  {
-    "place_id": "ChIJIwkcOhp-1YcRuzxkE6FTC-0",
-    "name": "Pickleball Court Ev Power Dock Hot Tub Pool Table - Vacation Home",
-    "address": "Memphis, TN 38104, USA",
-    "lat": 35.1423683,
-    "lng": -90.0076294,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=35.1423683,-90.0076294"
   },
   {
     "place_id": "ChIJPVMQXwCbf4gRRCIgm89ui-0",
@@ -21401,26 +20220,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=27.757877999999998,-82.69408899999999"
   },
   {
-    "place_id": "ChIJe7NFUMnjwogROX1_hyke9Lo",
-    "name": "Pickleball Central Pro Shop at Dill Dinkers St. Petersburg",
-    "address": "2000 34th St S, St. Petersburg, FL 33711, USA",
-    "lat": 27.749983999999998,
-    "lng": -82.67903749999999,
-    "types": [
-      "sporting_goods_store",
-      "point_of_interest",
-      "store",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=27.749983999999998,-82.67903749999999"
-  },
-  {
     "place_id": "ChIJS3A5dgDhwogRQU_VFdQPyWY",
     "name": "Bartlett Park Pickleball Courts",
     "address": "2000 7th St S, St. Petersburg, FL 33705, USA",
@@ -21438,25 +20237,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=27.7504954,-82.6415895"
-  },
-  {
-    "place_id": "ChIJG3u30JLpwogRjc5oPhn_d7M",
-    "name": "Waterfront Pool Pickleball Court Game Room",
-    "address": "Town 'N' Country, FL 33615, USA",
-    "lat": 27.991737399999998,
-    "lng": -82.58409879999999,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=27.991737399999998,-82.58409879999999"
   },
   {
     "place_id": "ChIJ38YQa379wogRuhnfVZHR5DM",
@@ -21657,30 +20437,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.0688012,-80.2682607"
-  },
-  {
-    "place_id": "ChIJN1u0iKoB2YgRaNQ89aigcrM",
-    "name": "RipPickle Pickleball Lessons",
-    "address": "NE 17th Terrace, Fort Lauderdale, FL 33305, USA",
-    "lat": 26.147077,
-    "lng": -80.125244,
-    "types": [
-      "tennis_court",
-      "athletic_field",
-      "sports_school",
-      "sports_activity_location",
-      "sports_club",
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.147077,-80.125244"
   },
   {
     "place_id": "ChIJ3SPWFlcB2YgRvKCzRG8H1W8",
@@ -21965,59 +20721,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.2713578,-80.269896"
   },
   {
-    "place_id": "ChIJLUV79bMh2YgRcmKcKuttIgc",
-    "name": "Palm Beach County - Pickleball Coach",
-    "address": "7076 Huntington Ln, Delray Beach, FL 33446, USA",
-    "lat": 26.462733,
-    "lng": -80.1528872,
-    "types": [
-      "fitness_center",
-      "athletic_field",
-      "sports_coaching",
-      "gym",
-      "sports_school",
-      "sports_activity_location",
-      "health",
-      "sports_club",
-      "association_or_organization",
-      "school",
-      "educational_institution",
-      "service",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.462733,-80.1528872"
-  },
-  {
-    "place_id": "ChIJRVlS18Oj2YgR9MEye42M-3c",
-    "name": "DTI Training Center | Tennis & Pickleball Courts",
-    "address": "7801 NW 80th Ave, Tamarac, FL 33321, USA",
-    "lat": 26.217945999999998,
-    "lng": -80.260916,
-    "types": [
-      "tennis_court",
-      "athletic_field",
-      "sports_activity_location",
-      "sports_club",
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=26.217945999999998,-80.260916"
-  },
-  {
     "place_id": "ChIJj4ifWAD92IgRtcx7QYlE2Oc",
     "name": "Pickleball court",
     "address": "3251 NE 15th St, Pompano Beach, FL 33062, USA",
@@ -22116,28 +20819,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=27.3446051,-82.4668715"
   },
   {
-    "place_id": "ChIJkXdKBWNBw4gRUN8XhCaGwf0",
-    "name": "Suncoast Pickleball Association",
-    "address": "2623 Bougainvillea St, Sarasota, FL 34239, USA",
-    "lat": 27.3077856,
-    "lng": -82.51719369999999,
-    "types": [
-      "athletic_field",
-      "sports_activity_location",
-      "sports_club",
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=27.3077856,-82.51719369999999"
-  },
-  {
     "place_id": "ChIJo2U_IshHw4gRUrxjqluRxVE",
     "name": "Laurel Oak Country Club - Tennis, Pickleball, & Pool Facility",
     "address": "7903 Donald Ross Rd E, Sarasota, FL 34240, USA",
@@ -22218,26 +20899,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=27.4450947,-82.4348033"
-  },
-  {
-    "place_id": "ChIJVVVRHZJAw4gRsAWq1GiGsE4",
-    "name": "Sarasota Youth Pickleball League",
-    "address": "601 S Pompano Ave, Sarasota, FL 34237, USA",
-    "lat": 27.3310423,
-    "lng": -82.50706149999999,
-    "types": [
-      "sports_club",
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=27.3310423,-82.50706149999999"
   },
   {
     "place_id": "ChIJR7CVlclbw4gRsmOJDHVp5fk",
@@ -22582,45 +21243,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=37.047208999999995,-113.58204599999999"
   },
   {
-    "place_id": "ChIJ__ZTyHRayoAR63dH9Bo-VH8",
-    "name": "The Retreat - Spacious Home with Pickleball Court and Pool Near St. George | Family-Friendly Stay",
-    "address": "Washington, UT 84780, USA",
-    "lat": 37.0779991,
-    "lng": -113.50199889999999,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=37.0779991,-113.50199889999999"
-  },
-  {
-    "place_id": "ChIJ9eipOchRyoARPxAY-zPlsPg",
-    "name": "Dynasty Pickleball Tournaments",
-    "address": "St George, St. George, UT 84790, USA",
-    "lat": 37.0232059,
-    "lng": -113.4811996,
-    "types": [
-      "sports_club",
-      "association_or_organization",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=37.0232059,-113.4811996"
-  },
-  {
     "place_id": "ChIJeRaGFwBbyoARmOtbnt4O0hY",
     "name": "Sullivan Pickleball courts",
     "address": "4GC2+97, Washington, UT 84780, USA",
@@ -22638,25 +21260,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=37.120933099999995,-113.49937229999999"
-  },
-  {
-    "place_id": "ChIJFdSbKplDyoARLdVXwPVL0Ec",
-    "name": "The Pickleball Palace",
-    "address": "5033 Escapes Dr, St. George, UT 84770, USA",
-    "lat": 37.1964372,
-    "lng": -113.62235749999999,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=37.1964372,-113.62235749999999"
   },
   {
     "place_id": "ChIJ6dL77uw_mYAR3b2a5LVzdPQ",
@@ -23771,29 +22374,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.264676,-88.0273003"
-  },
-  {
-    "place_id": "ChIJH7ZB8BMvD4gRIgrL1l4s3oE",
-    "name": "BB Pickleball Instruction",
-    "address": "28131 Indian Point Rd, Sycamore, IL 60178, USA",
-    "lat": 42.040544,
-    "lng": -88.70376759999999,
-    "types": [
-      "sports_coaching",
-      "sports_school",
-      "school",
-      "educational_institution",
-      "point_of_interest",
-      "health",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.040544,-88.70376759999999"
   },
   {
     "place_id": "ChIJwzKgGK1HdYgRPKNMVAPIvDk",
@@ -24915,28 +23495,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.9605811,-86.1319422"
   },
   {
-    "place_id": "ChIJobUxbaErO6wRdWBXv1F9EzE",
-    "name": "The Pickleball Lab - Pickleball Classes & Lessons",
-    "address": "13203 Parkside Dr, Fishers, IN 46038, USA",
-    "lat": 39.9803345,
-    "lng": -86.0001307,
-    "types": [
-      "sports_coaching",
-      "health",
-      "point_of_interest",
-      "school",
-      "educational_institution",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.9803345,-86.0001307"
-  },
-  {
     "place_id": "ChIJORESbgBXa4gRKQcs2ztLves",
     "name": "Pickleball Courts",
     "address": "1501 W 16th St, Indianapolis, IN 46202, USA",
@@ -24994,26 +23552,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.1521695,-86.5361175"
-  },
-  {
-    "place_id": "ChIJ8UCZKopDa4gRRULXw7Gokb4",
-    "name": "Pickleball Central Pro Shop at Indianapolis Pickleball Club",
-    "address": "1175 Airport Pkwy, Greenwood, IN 46143, USA",
-    "lat": 39.6315891,
-    "lng": -86.09160159999999,
-    "types": [
-      "sporting_goods_store",
-      "point_of_interest",
-      "store",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.6315891,-86.09160159999999"
   },
   {
     "place_id": "ChIJF2iJiB8rbogRFGaKgG1KclY",
@@ -25757,26 +24295,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.2457488,-84.6113737"
-  },
-  {
-    "place_id": "ChIJ5ztOBZpnQIgRPiUDWvlSJhQ",
-    "name": "Middletown Pickleball Association",
-    "address": "2145 S Breiel Blvd, Middletown, OH 45042, USA",
-    "lat": 39.4920769,
-    "lng": -84.3529326,
-    "types": [
-      "sports_club",
-      "point_of_interest",
-      "association_or_organization",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.4920769,-84.3529326"
   },
   {
     "place_id": "ChIJKbQ9KgCrQYgRkLS8m2JMDVc",
@@ -27540,27 +26058,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.2475735,-71.565893"
   },
   {
-    "place_id": "ChIJoeum5fCd5IkRwrxx29hecD8",
-    "name": "Abington Pickleball Association",
-    "address": "441 Summer St, Abington, MA 02351, USA",
-    "lat": 42.1027165,
-    "lng": -70.9322464,
-    "types": [
-      "gym",
-      "health",
-      "sports_activity_location",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=42.1027165,-70.9322464"
-  },
-  {
     "place_id": "ChIJeY8vEQBb54kRUnSGjKgR0SY",
     "name": "Pickleball courts",
     "address": "65 Walker St, Lenox, MA 01240, USA",
@@ -27699,25 +26196,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.2308167,-76.8225877"
-  },
-  {
-    "place_id": "ChIJFYmzxz37t4kRIPhU2JHW0gk",
-    "name": "The PutAway - Indoor Pickleball Courts & Leagues",
-    "address": "254 Najoles Rd Suite A-K, Millersville, MD 21108, USA",
-    "lat": 39.090568,
-    "lng": -76.63164499999999,
-    "types": [
-      "sports_activity_location",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=39.090568,-76.63164499999999"
   },
   {
     "place_id": "ChIJxxVeIxcbyIkRA6Rvr814VsI",
@@ -28809,30 +27287,6 @@
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=35.979015,-106.0367794"
   },
   {
-    "place_id": "ChIJx0T-6YJxIocRP9zx5_r7nQs",
-    "name": "The Picklr Pro Shop\u2013Albuquerque West",
-    "address": "10000 Coors Blvd NW suite d09, Albuquerque, NM 87114, USA",
-    "lat": 35.1964731,
-    "lng": -106.6564294,
-    "types": [
-      "sportswear_store",
-      "athletic_field",
-      "clothing_store",
-      "sporting_goods_store",
-      "sports_activity_location",
-      "store",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=35.1964731,-106.6564294"
-  },
-  {
     "place_id": "ChIJ0w_NyxtRGIcRLZRa6KllqsE",
     "name": "Fort Marcy Pickleball Courts",
     "address": "917 Old Taos Hwy, Santa Fe, NM 87501, USA",
@@ -29752,25 +28206,6 @@
     "hours": null,
     "photo": null,
     "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=35.5013052,-97.7523677"
-  },
-  {
-    "place_id": "ChIJpa_A1pAQsocRm7EI1hgqbOY",
-    "name": "5 Beds Downtown OKC with Pickleball Court, Fire Pit, Hot Tub, Game Lounge",
-    "address": "Oklahoma City, OK 73107, USA",
-    "lat": 35.4910125,
-    "lng": -97.5522309,
-    "types": [
-      "lodging",
-      "point_of_interest",
-      "establishment"
-    ],
-    "rating": null,
-    "user_rating_count": null,
-    "phone": null,
-    "website": null,
-    "hours": null,
-    "photo": null,
-    "street_view_url": "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=35.4910125,-97.5522309"
   },
   {
     "place_id": "ChIJjbf8bQARsocRCJuxPpMD12o",
