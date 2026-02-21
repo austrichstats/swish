@@ -3,20 +3,55 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Swish — Pickleball Court Map</title>
+    <title>Swish — Court Finder</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
     <style>
+        :root {
+            --swish-blue: #0096d4;
+            --swish-orange: #ef7d00;
+            --swish-orange-light: #f59c00;
+            --swish-black: #000000;
+            --swish-gray: #4c504f;
+            --swish-bg: #f0faff;
+            --swish-white: #ffffff;
+        }
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+        body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; background: var(--swish-bg); }
 
-        #map { width: 100%; height: 100vh; }
+        #header {
+            background: var(--swish-white);
+            padding: 12px 24px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            z-index: 1001;
+            position: relative;
+        }
+        #header .brand {
+            font-size: 22px;
+            font-weight: 700;
+            color: var(--swish-blue);
+            letter-spacing: -0.5px;
+        }
+        #header .brand span { color: var(--swish-orange); }
+        #header .subtitle {
+            font-size: 13px;
+            color: var(--swish-gray);
+            font-weight: 400;
+        }
+
+        #map { width: 100%; height: calc(100vh - 56px); }
 
         #controls {
             position: absolute;
-            top: 12px;
-            left: 60px;
+            top: 68px;
+            left: 16px;
             z-index: 1000;
             display: flex;
             gap: 10px;
@@ -24,77 +59,125 @@
         }
 
         #search {
-            padding: 10px 14px;
-            font-size: 15px;
-            border: 2px solid #ccc;
-            border-radius: 8px;
+            padding: 10px 16px;
+            font-size: 14px;
+            font-family: 'Inter', sans-serif;
+            border: 2px solid #d1d5db;
+            border-radius: 16px;
             width: 280px;
-            background: white;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+            background: var(--swish-white);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+            transition: border-color 0.2s;
         }
-        #search:focus { outline: none; border-color: #2563eb; }
+        #search:focus { outline: none; border-color: var(--swish-blue); }
 
         #court-count {
-            background: white;
-            padding: 8px 14px;
-            border-radius: 8px;
-            font-size: 14px;
+            background: var(--swish-white);
+            padding: 8px 16px;
+            border-radius: 16px;
+            font-size: 13px;
             font-weight: 600;
-            color: #374151;
-            box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+            color: var(--swish-gray);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.08);
             white-space: nowrap;
         }
 
-        .court-popup { max-width: 300px; line-height: 1.5; }
-        .court-popup h3 { margin-bottom: 6px; font-size: 16px; color: #111; }
-        .court-popup .address { color: #555; font-size: 13px; margin-bottom: 8px; }
-        .court-popup .rating { font-size: 14px; margin-bottom: 4px; }
-        .court-popup .stars { color: #f59e0b; }
-        .court-popup .detail { font-size: 13px; color: #444; margin-bottom: 3px; }
-        .court-popup .detail a { color: #2563eb; text-decoration: none; }
+        .court-popup { max-width: 320px; line-height: 1.5; font-family: 'Inter', sans-serif; }
+        .court-popup img.court-photo {
+            width: 100%;
+            max-height: 180px;
+            object-fit: cover;
+            border-radius: 10px;
+            margin-bottom: 10px;
+        }
+        .court-popup h3 {
+            margin-bottom: 4px;
+            font-size: 16px;
+            font-weight: 700;
+            color: var(--swish-black);
+        }
+        .court-popup .address { color: var(--swish-gray); font-size: 13px; margin-bottom: 8px; }
+        .court-popup .rating { font-size: 14px; margin-bottom: 6px; font-weight: 600; }
+        .court-popup .stars { color: var(--swish-orange); }
+        .court-popup .review-count { font-weight: 400; color: var(--swish-gray); font-size: 13px; }
+        .court-popup .detail { font-size: 13px; color: var(--swish-gray); margin-bottom: 3px; }
+        .court-popup .detail a { color: var(--swish-blue); text-decoration: none; font-weight: 500; }
         .court-popup .detail a:hover { text-decoration: underline; }
         .court-popup .hours-toggle {
             font-size: 13px;
-            color: #2563eb;
+            color: var(--swish-blue);
             cursor: pointer;
             border: none;
             background: none;
             padding: 0;
             margin-top: 4px;
+            font-weight: 500;
+            font-family: 'Inter', sans-serif;
         }
         .court-popup .hours-list {
             display: none;
             font-size: 12px;
-            color: #555;
+            color: var(--swish-gray);
             margin-top: 4px;
             padding-left: 0;
             list-style: none;
         }
         .court-popup .hours-list li { margin-bottom: 1px; }
-        .court-popup .directions {
+        .court-popup .btn-row {
+            display: flex;
+            gap: 8px;
+            margin-top: 10px;
+            flex-wrap: wrap;
+        }
+        .court-popup .btn {
             display: inline-block;
-            margin-top: 8px;
-            padding: 6px 12px;
-            background: #2563eb;
-            color: white;
-            border-radius: 6px;
+            padding: 8px 16px;
+            border-radius: 16px;
             text-decoration: none;
             font-size: 13px;
-            font-weight: 500;
+            font-weight: 700;
+            font-family: 'Inter', sans-serif;
+            transition: opacity 0.2s;
         }
-        .court-popup .directions:hover { background: #1d4ed8; }
+        .court-popup .btn:hover { opacity: 0.9; }
+        .court-popup .btn-primary {
+            background: linear-gradient(90deg, #EF7D00 0%, #F59C00 100%);
+            color: white;
+            border: none;
+        }
+        .court-popup .btn-secondary {
+            background: var(--swish-white);
+            color: var(--swish-blue);
+            border: 2px solid var(--swish-blue);
+        }
+
+        /* Override Leaflet cluster colors to match Swish */
+        .marker-cluster-small { background-color: rgba(0, 150, 212, 0.3); }
+        .marker-cluster-small div { background-color: rgba(0, 150, 212, 0.6); color: white; font-family: 'Inter', sans-serif; font-weight: 700; }
+        .marker-cluster-medium { background-color: rgba(239, 125, 0, 0.3); }
+        .marker-cluster-medium div { background-color: rgba(239, 125, 0, 0.6); color: white; font-family: 'Inter', sans-serif; font-weight: 700; }
+        .marker-cluster-large { background-color: rgba(239, 125, 0, 0.4); }
+        .marker-cluster-large div { background-color: rgba(239, 125, 0, 0.7); color: white; font-family: 'Inter', sans-serif; font-weight: 700; }
 
         @media (max-width: 600px) {
             #controls { left: 10px; right: 10px; flex-wrap: wrap; }
             #search { width: 100%; }
+            #header { padding: 10px 16px; }
+            #header .brand { font-size: 18px; }
         }
     </style>
 </head>
 <body>
+    <div id="header">
+        <div style="display:flex;align-items:center;gap:10px;">
+            <img src="swish-logo.webp" alt="Swish" style="height:32px;" />
+            <div class="brand">Court Finder</div>
+        </div>
+        <div class="subtitle" id="court-count">Loading...</div>
+    </div>
     <div id="map"></div>
     <div id="controls">
-        <input type="text" id="search" placeholder="Filter by name or city..." />
-        <div id="court-count">Loading...</div>
+        <input type="text" id="search" placeholder="Search courts by name or city..." />
     </div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -105,6 +188,10 @@
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
             maxZoom: 19
         }).addTo(map);
+
+        // Swish logo watermark over the Pacific Ocean
+        const logoBounds = [[28, -155], [38, -135]];
+        L.imageOverlay('swish-logo.webp', logoBounds, { opacity: 0.15, interactive: false }).addTo(map);
 
         const markers = L.markerClusterGroup({ maxClusterRadius: 50 });
         let allMarkers = [];
@@ -127,11 +214,16 @@
 
         function buildPopup(c) {
             let html = '<div class="court-popup">';
+
+            if (c.photo) {
+                html += `<img class="court-photo" src="${escapeHtml(c.photo)}" alt="${escapeHtml(c.name)}" onerror="this.style.display='none'" />`;
+            }
+
             html += `<h3>${escapeHtml(c.name)}</h3>`;
             html += `<div class="address">${escapeHtml(c.address || 'Address not available')}</div>`;
 
             if (c.rating) {
-                const count = c.user_rating_count ? ` (${c.user_rating_count} reviews)` : '';
+                const count = c.user_rating_count ? `<span class="review-count"> (${c.user_rating_count} reviews)</span>` : '';
                 html += `<div class="rating">${starsHtml(c.rating)} ${c.rating}${count}</div>`;
             }
 
@@ -140,7 +232,10 @@
             }
 
             if (c.website) {
-                html += `<div class="detail">Web: <a href="${escapeHtml(c.website)}" target="_blank" rel="noopener">${escapeHtml(new URL(c.website).hostname)}</a></div>`;
+                try {
+                    const hostname = new URL(c.website).hostname;
+                    html += `<div class="detail">Web: <a href="${escapeHtml(c.website)}" target="_blank" rel="noopener">${escapeHtml(hostname)}</a></div>`;
+                } catch (e) {}
             }
 
             if (c.hours) {
@@ -156,10 +251,15 @@
                 html += '</ul>';
             }
 
+            html += '<div class="btn-row">';
             if (c.lat && c.lng) {
                 const q = encodeURIComponent(c.name + ', ' + (c.address || ''));
-                html += `<a class="directions" href="https://www.google.com/maps/dir/?api=1&destination=${q}" target="_blank" rel="noopener">Get Directions</a>`;
+                html += `<a class="btn btn-primary" href="https://www.google.com/maps/dir/?api=1&destination=${q}" target="_blank" rel="noopener">Directions</a>`;
             }
+            if (c.street_view_url) {
+                html += `<a class="btn btn-secondary" href="${escapeHtml(c.street_view_url)}" target="_blank" rel="noopener">Street View</a>`;
+            }
+            html += '</div>';
 
             html += '</div>';
             return html;
@@ -176,7 +276,7 @@
                     courts.forEach(c => {
                         if (!c.lat || !c.lng) return;
                         const marker = L.marker([c.lat, c.lng]);
-                        marker.bindPopup(buildPopup(c), { maxWidth: 320 });
+                        marker.bindPopup(buildPopup(c), { maxWidth: 340 });
                         marker.courtData = c;
                         allMarkers.push(marker);
                     });
